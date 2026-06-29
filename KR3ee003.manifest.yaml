@@ -1,0 +1,877 @@
+canonical_identifier: bkk:krp/KR3ee003/v1
+canonical_location: https://kanripo.org/bkk/KR3ee003/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 凌門傳授銅人指穴
+  identifiers:
+    krp: KR3ee003
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee003.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee003_000.yaml, hash: 'sha256:c88cc31f8220d35811954643cb22264a6d7dacf789c4024b0f79b96f382c69bc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee003_000.markers.yaml, hash: 'sha256:d7258169467890d48437931f1aa5f6dfa936ee9b482e7d6e72ee8dd0f6f84068'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 1012
+  label: 百症歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d3.h1s1
+    span:
+    - body
+    - 1012
+    - 1791
+  label: 玉龍賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d4.h1s1
+    span:
+    - body
+    - 1791
+    - 2187
+  label: 靈光賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d5.h1s1
+    span:
+    - body
+    - 2187
+    - 2568
+  label: 攔江賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d6.h1s1
+    span:
+    - body
+    - 2568
+    - 3425
+  label: 席弘賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d7.h1s1
+    span:
+    - body
+    - 3425
+    - 3872
+  label: 八法八穴歌西江月
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d8.h1s1
+    span:
+    - body
+    - 3872
+    - 6657
+  label: 十四經步穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d9.h1s1
+    span:
+    - body
+    - 6657
+    - 7671
+  label: 十四經周身歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d10.h1s1
+    span:
+    - body
+    - 7671
+    - 9525
+  label: 十二經脈歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d11.h1s1
+    span:
+    - body
+    - 9525
+    - 9656
+  label: 十五絡脈歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d12.h1s1
+    span:
+    - body
+    - 9656
+    - 9732
+  label: 千金十一穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d13.h1s1
+    span:
+    - body
+    - 9732
+    - 9978
+  label: 孫思邈十三鬼穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d14.h1s1
+    span:
+    - body
+    - 9978
+    - 10224
+  label: 長葉君天星秘訣歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d15.h1s1
+    span:
+    - body
+    - 10224
+    - 10783
+  label: 馬丹陽天星十二穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d16.h1s1
+    span:
+    - body
+    - 10783
+    - 10833
+  label: 秋夫療鬼十三穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d17.h1s1
+    span:
+    - body
+    - 10833
+    - 10866
+  label: 回陽九針歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d18.h1s1
+    span:
+    - body
+    - 10866
+    - 11047
+  label: 奇門經八脈歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d19.h1s1
+    span:
+    - body
+    - 11047
+    - 11110
+  label: 八脈交會八穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d20.h1s1
+    span:
+    - body
+    - 11110
+    - 11172
+  label: 八穴相所合歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d21.h1s1
+    span:
+    - body
+    - 11172
+    - 11346
+  label: 十二經本一脈歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d22.h1s1
+    span:
+    - body
+    - 11346
+    - 11437
+  label: 十二經穴起止歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d23.h1s1
+    span:
+    - body
+    - 11437
+    - 11469
+  label: 八會穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d24.h1s1
+    span:
+    - body
+    - 11469
+    - 11501
+  label: 七募穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d25.h1s1
+    span:
+    - body
+    - 11501
+    - 11525
+  label: 四總穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d26.h1s1
+    span:
+    - body
+    - 11525
+    - 11574
+  label: 十二經納天干歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d27.h1s1
+    span:
+    - body
+    - 11574
+    - 11613
+  label: 十二經納地支晝夜流注歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d28.h1s1
+    span:
+    - body
+    - 11613
+    - 11658
+  label: 血忌歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d29.h1s1
+    span:
+    - body
+    - 11658
+    - 11703
+  label: 年尻神歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d30.h1s1
+    span:
+    - body
+    - 11703
+    - 11777
+  label: 月尻神歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d31.h1s1
+    span:
+    - body
+    - 11777
+    - 11853
+  label: 十二經原穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d32.h1s1
+    span:
+    - body
+    - 11853
+    - 11917
+  label: 腳不過膝手不過肘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d33.h1s1
+    span:
+    - body
+    - 11917
+    - 11950
+  label: 榮衛所生歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d34.h1s1
+    span:
+    - body
+    - 11950
+    - 12059
+  label: 行針指要歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d35.h1s1
+    span:
+    - body
+    - 12059
+    - 12188
+  label: 禁針穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d36.h1s1
+    span:
+    - body
+    - 12188
+    - 12304
+  label: 禁灸穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d37.h1s1
+    span:
+    - body
+    - 12304
+    - 12479
+  label: 六十六穴流注歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d38.h1s1
+    span:
+    - body
+    - 12479
+    - 12658
+  label: 子午流注逐日按時定穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d39.h1s1
+    span:
+    - body
+    - 12658
+    - 13252
+  label: 雜病十一穴歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d40.h1s1
+    span:
+    - body
+    - 13252
+    - 13509
+  label: 補瀉雪心歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d41.h1s1
+    span:
+    - body
+    - 13509
+    - 13654
+  label: 周身血氣歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d42.h1s1
+    span:
+    - body
+    - 13654
+    - 13821
+  label: 生成歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d43.h1s1
+    span:
+    - body
+    - 13821
+    - 14562
+  label: 六十六穴流注歌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d44.h1s1
+    span:
+    - body
+    - 14562
+    - 15921
+  label: 標幽賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d45.h1s1
+    span:
+    - body
+    - 15921
+    - 16484
+  label: 銅人指要賦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d46.h1s1
+    span:
+    - body
+    - 16484
+    - 16742
+  label: 手太陰肺經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d47.h1s1
+    span:
+    - body
+    - 16742
+    - 17053
+  label: 手陽明大腸經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d48.h1s1
+    span:
+    - body
+    - 17053
+    - 17651
+  label: 足陽明胃經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d49.h1s1
+    span:
+    - body
+    - 17651
+    - 17965
+  label: 足太陰脾經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d50.h1s1
+    span:
+    - body
+    - 17965
+    - 18149
+  label: 手少陰心經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d51.h1s1
+    span:
+    - body
+    - 18149
+    - 18462
+  label: 手太陽小腸經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d52.h1s1
+    span:
+    - body
+    - 18462
+    - 19132
+  label: 足太陽膀胱經圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d53.h1s1
+    span:
+    - body
+    - 19132
+    - 19473
+  label: 足少陰腎經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d54.h1s1
+    span:
+    - body
+    - 19473
+    - 19671
+  label: 手厥陰心包經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d55.h1s1
+    span:
+    - body
+    - 19671
+    - 20013
+  label: 手少陽三焦經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d56.h1s1
+    span:
+    - body
+    - 20013
+    - 20366
+  label: 足少陽膽經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d57.h1s1
+    span:
+    - body
+    - 20366
+    - 20692
+  label: 足厥陰肝經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d58.h1s1
+    span:
+    - body
+    - 20692
+    - 20959
+  label: 督脈陽經之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d59.h1s1
+    span:
+    - body
+    - 20959
+    - 21117
+  label: 任脈之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d60.h1s1
+    span:
+    - body
+    - 21117
+    - 21124
+  label: 天星穴法之形圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d61.h1s1
+    span:
+    - body
+    - 21124
+    - 21320
+  label: 秋夫療鬼十三針之格
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d62.h1s1
+    span:
+    - body
+    - 21320
+    - 21325
+  label: 回陽九針圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d63.h1s1
+    span:
+    - body
+    - 21325
+    - 21358
+  label: 回陽九針穴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d64.h1s1
+    span:
+    - body
+    - 21358
+    - 21594
+  label: 八脈之形圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d65.h1s1
+    span:
+    - body
+    - 21594
+    - 21596
+  label: 子膽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d66.h1s1
+    span:
+    - body
+    - 21596
+    - 21598
+  label: 醜肝
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d67.h1s1
+    span:
+    - body
+    - 21598
+    - 21600
+  label: 寅肺
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d68.h1s1
+    span:
+    - body
+    - 21600
+    - 21603
+  label: 卯大腸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d69.h1s1
+    span:
+    - body
+    - 21603
+    - 21605
+  label: 辰胃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d70.h1s1
+    span:
+    - body
+    - 21605
+    - 21607
+  label: 己脾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d71.h1s1
+    span:
+    - body
+    - 21607
+    - 21609
+  label: 午心
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d72.h1s1
+    span:
+    - body
+    - 21609
+    - 21612
+  label: 未小腸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d73.h1s1
+    span:
+    - body
+    - 21612
+    - 21615
+  label: 申膀胱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d74.h1s1
+    span:
+    - body
+    - 21615
+    - 21617
+  label: 酉腎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d75.h1s1
+    span:
+    - body
+    - 21617
+    - 21621
+  label: 戌心包絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d76.h1s1
+    span:
+    - body
+    - 21621
+    - 21624
+  label: 亥三焦
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d77.h1s1
+    span:
+    - body
+    - 21624
+    - 21630
+  label: 五臟正面之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d78.h1s1
+    span:
+    - body
+    - 21630
+    - 21636
+  label: 五臟背面之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d79.h1s1
+    span:
+    - body
+    - 21636
+    - 21641
+  label: 精溺之分圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d80.h1s1
+    span:
+    - body
+    - 21641
+    - 21831
+  label: 命門大小腸膀胱論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d81.h1s1
+    span:
+    - body
+    - 21831
+    - 21924
+  label: 闌門水穀分別論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d82.h1s1
+    span:
+    - body
+    - 21924
+    - 21930
+  label: 氣海膈膜之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d83.h1s1
+    span:
+    - body
+    - 21930
+    - 22047
+  label: 氣海膈膜論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d84.h1s1
+    span:
+    - body
+    - 22047
+    - 22212
+  label: 肺膜論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d85.h1s1
+    span:
+    - body
+    - 22212
+    - 22216
+  label: 心系之圖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee003_jc_000-d86.h1s1
+    span:
+    - body
+    - 22216
+    - 22396
+  label: 心系詢
+  type: section
+  level: 1
+hash: sha256:af7fdf21b69a52aae0f9a893b80beb01fc99f098389691701b8b9bd743629200
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
