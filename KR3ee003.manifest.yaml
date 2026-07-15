@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee003/v1
 canonical_location: https://kanripo.org/bkk/KR3ee003/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 凌門傳授銅人指穴
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee003_000.yaml, hash: 'sha256:30ba74cd409f50312dcadb19158fca3c2e839a2f412809f148cc9c71536a053f'}
+  - {seq: 0, filename: KR3ee003_000.yaml, hash: 'sha256:b964dadb4b33e2e125acdf7aefbc98458c3ee6ab49ae3629324269ddca3cdce4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee003_000.markers.yaml, hash: 'sha256:2d9585bd9938f1ac6659b92c0bc1626fcc9bcc56561a7ecb211f044738b20ebb'}
+  - {seq: 0, role: markers, filename: assets/KR3ee003_000.markers.yaml, hash: 'sha256:09da60f641e9ae4d691fa34d12ba5ea9719192708d6842ddc9f57dc16caac079'}
 table_of_contents:
 - ref:
     seq: 0
@@ -871,4 +871,7 @@ table_of_contents:
   label: 心系詢
   type: section
   level: 1
-hash: sha256:cd23727482f6a69e9adb3204a10c9030051412125b2b5c0fe8bdfef1271e490e
+hash: sha256:167c2fa5688dbe390de2b5bf16d667295dc9e58f764e72b3831fa5b06491afeb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
